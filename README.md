@@ -1,2 +1,3 @@
-# studynote #
-这个是我的学习日记，记录了我在毕业之后的学习生涯以及学习成果，在工作中获得的经验和一些代码经验，以及自己的兴趣和目标、近况等。
+# astar #
+use astar arithmetic to look for the path by erlang 
+用erlang 写astat算法实现寻找路径
